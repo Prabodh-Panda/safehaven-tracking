@@ -1,4 +1,3 @@
-// components/Map.tsx
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import { LatLngExpression } from "leaflet";
 import "leaflet/dist/leaflet.css";
